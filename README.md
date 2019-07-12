@@ -1,4 +1,4 @@
- 其中训练数据主要包括1100条记录，31个字段，主要字段说明如下：
+ 主要字段说明如下：
 （1）Age：员工年龄
 （2）Attrition：员工是否已经离职，1表示已经离职，2表示未离职，这是目标预测值；
 （3）BusinessTravel：商务差旅频率，Non-Travel表示不出差，Travel_Rarely表示不经常出差，Travel_Frequently表示经常出差；
